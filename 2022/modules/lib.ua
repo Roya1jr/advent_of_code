@@ -1,1 +1,1 @@
-File ← ⊕□⍜▽¯∶\+.=, @\n # Get File contents
+File ← ⊜□ ¬⌕"\n\n" . # Get File contents
