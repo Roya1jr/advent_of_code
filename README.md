@@ -19,18 +19,11 @@ This repository contains solutions to the Advent of Code challenges, utilizing m
 advent-of-code-repo/
 ├── 2024
 │   ├── uiua
-│   │   └── solutions
-│   ├── other-languages
-│   |   ├── python
-│   |   └── java
 │   └──...
 ├── 2023
 │   ├── uiua
-│   │   └── solutions
-│   ├── other-languages
-│   |   ├── python
-│   |   └── java
 │   └──...
+├── LICENSE
 └── README.md (this file)
 ```
 
@@ -39,7 +32,7 @@ advent-of-code-repo/
 
 1. Clone the repository using a version control system like Git.
 2. Navigate to the `year` directory of your choice (e.g., `2024`).
-3. Open the corresponding language folder (e.g., `uiua`, `go`, `goal`).
+3. Open the corresponding language folder (e.g., `uiua`, `go`, `goal`,`rust`).
 
 **Languages**
 -------------------
