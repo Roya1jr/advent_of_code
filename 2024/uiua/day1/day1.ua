@@ -10,3 +10,6 @@ D ← ∩(⊏⊸⍏ ≡⊡) 0 ⊙1 . Parse "./d1.txt"
 
 # Combination
 ⊃(/+ ⌵ -|/+ × /+ ⊸⊞⌕) D
+
+# Improved
+⊃(/+ ⌵ -|/+ ♭ × ⟜⊞⌕)D
