@@ -1,9 +1,9 @@
-~ "../modules/advent.ua" ~ GetData
+~ "../modules/advent.ua" ~ Parse
 
-D ← ∩(⊏⊸⍏ ≡⊡) 0 ⊙1 . GetData "./d1.txt"
+D ← ∩(⊏⊸⍏ ≡⊡) 0 ⊙1 . Parse "./d1.txt"
 
 # Part 1
-/+ × ⊸± - D
+/+ ⌵ - D
 
 # Part 2
 /+ × /+ ⊸⊞⌕ ▽⊙: ◡∈: D
