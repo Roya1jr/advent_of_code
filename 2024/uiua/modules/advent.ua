@@ -1,3 +1,3 @@
 ┌─╴Parse
-  Call ← |1 ⊜(⊜⋕⊸≠@\s)⊸≠@\n &rs ∞ &fo
+  Call ← |1 ⊜(⊜⋕⊸≠@\s)⊸≠@\n &fras
 └─╴
